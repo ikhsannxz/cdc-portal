@@ -1,0 +1,6 @@
+{
+  "name": "Portal CDC UM Kendari",
+  "description": "Portal terpadu Career Development Center (CDC), layanan magang, data alumni, tracer study, mitra kerja sama, lowongan, dan laporan Universitas Muhammadiyah Kendari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
